@@ -1,0 +1,1 @@
+/usr/bin/cc  -DPLATFORM_LINUX -DPLATFORM_64BIT -pthread -std=gnu99 -g CMakeFiles/BootCommander.dir/main.c.o -o /home/ian/CMR/openblt/BootCommander   -L/home/ian/CMR/openblt/Host/Source/BootCommander/../../..  -Wl,-rpath,"\$ORIGIN" -lopenblt 

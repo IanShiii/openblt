@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "boot.h": "c",
+        "blt_conf.h": "c"
+    }
+}
